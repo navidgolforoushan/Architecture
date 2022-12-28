@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lib._20___State.BankAccount" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAEAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>20 - State\BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib._20___State.BankAccountState" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>20 - State\BankAccountState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib._20___State.OverdrawnState" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>20 - State\OverdrawnState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib._20___State.RegularState" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>20 - State\RegularState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
