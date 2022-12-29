@@ -9,7 +9,7 @@ public class BankAccount
 
     public decimal Balance { get { return BankAccountState.Balance; } }
 
-    public BankAccount(decimal initialBalance)
+    public BankAccount(decimal initialBalance, ILogger logger)
     {
         BankAccountState = new RegularState(initialBalance, this, logger);
     }
